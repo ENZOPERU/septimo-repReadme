@@ -1,2 +1,2 @@
-# septimo-repReadme
-Este es mi septimo repositorio.
+Este es mi septimo repositorio en github, trabajado desde mi computadora personal.
+
